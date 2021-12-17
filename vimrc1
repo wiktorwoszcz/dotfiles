@@ -1,0 +1,22 @@
+set autoread
+set backspace=indent,eol,start
+set clipboard=unnamed,unnamedplus
+set encoding=utf8
+set number
+set term=xterm-256color
+set wildmenu wildmode=longest:full,full 
+set term=xterm-256color
+let g:onedark_termcolors=256
+set listchars=eol:¶,trail:•,tab:▸\
+filetype plugin indent on
+set scrolloff=999
+set showbreak=¬\
+set showmatch
+syntax on
+set hlsearch ignorecase incsearch smartcase
+set lazyredraw
+
+set hlsearch ignorecase incsearch smartcase
+set ttyfast 
+let mapleader=','
+colorscheme torte
