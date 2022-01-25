@@ -1,0 +1,5 @@
+bashrc
+komenda1.txt
+komenda.txt
+vimrc1
+zad3.c
